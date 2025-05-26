@@ -1,0 +1,41 @@
+# Build folders
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio
+.vs/
+*.vssscc
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Sonar
+.scannerwork/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# Secrets
+appsettings.Development.json
